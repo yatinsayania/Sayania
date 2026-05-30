@@ -18,6 +18,7 @@
 - Python
 - Power BI
 - Data Analyst
+- Facilitator of Vendor Relationships
 
 ## Connect With Me
 
