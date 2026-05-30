@@ -9,6 +9,7 @@
 🔹 Network Security
 🔹 ERP Implementation
 🔹 IT Project Management
+🔹 Facilitator of Vendor Relationships
 
 ## Currently Learning
 
@@ -18,7 +19,7 @@
 - Python
 - Power BI
 - Data Analyst
-- Facilitator of Vendor Relationships
+
 
 ## Connect With Me
 
