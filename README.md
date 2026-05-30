@@ -20,7 +20,6 @@
 - Data Analyst
 
 ## Connect With Me
-
 LinkedIn: www.linkedin.com/in/yatinsayania
 ## GitHub Stats
 
